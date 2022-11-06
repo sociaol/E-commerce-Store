@@ -1,5 +1,5 @@
 ## Preview
-Preview the app live [here](https://myplantshop.vercel.app/).
+Preview the app live [here](https://e-commerce-store-jet.vercel.app/).
 
 ## Getting Started
 
