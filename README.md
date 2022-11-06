@@ -1,19 +1,11 @@
-E-commerce store built with Next.js and Stripe checkout by [AlterClass.io](https://alterclass.io).
-
-- Learn to build this application step-by-step by following the tutorial on [AlterClass](https://alterclass.io/tutorials/create-an-ecommerce-website-with-nextjs-and-stripe).
-
 - Preview the app live [here](https://myplantshop.vercel.app/).
-
-- Deploy the same app using Vercel:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/AlterClassIO/ecommerce-nextjs-stripe-checkout&project-name=eCommerce+Store+by+AlterClass&repository-name=eCommerce+Store+by+AlterClass)
 
 ## Getting Started
 
 ### 1. Clone the repository and install dependencies
 
 ```
-git clone https://github.com/AlterClassIO/ecommerce-nextjs-stripe-checkout
+git clone https://github.com/sociaol/E-commerce-Store
 cd ecommerce-nextjs-stripe-checkout
 npm install
 ```
@@ -43,7 +35,3 @@ To run it in production mode, use:
 npm run build
 npm run start
 ```
-
-## License
-
-[MIT](https://github.com/AlterClassIO/ecommerce-nextjs-stripe-checkout/blob/master/LICENSE)
