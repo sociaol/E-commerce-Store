@@ -1,4 +1,5 @@
-- Preview the app live [here](https://myplantshop.vercel.app/).
+## Preview
+Preview the app live [here](https://myplantshop.vercel.app/).
 
 ## Getting Started
 
